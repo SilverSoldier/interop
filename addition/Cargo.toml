@@ -1,0 +1,10 @@
+[package]
+name = "addition"
+version = "0.1.0"
+authors = ["kavya <soldatargent@gmail.com>"]
+
+[lib]
+name = "addition"
+crate-type = ["dylib"]
+
+[dependencies]
